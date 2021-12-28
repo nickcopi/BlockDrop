@@ -1,7 +1,7 @@
 {
 	"name":"Block Drop",
 	"tags":["Game"],
-	"description":"Game made in 4 hours for Ludum Dare 38, theme \"A Small World.\"",
+	"description":"Clicking game made in 4 hours for Ludum Dare 38, theme \"A Small World.\"",
 	"embed":{
 		"width":800,
 		"height":600,
